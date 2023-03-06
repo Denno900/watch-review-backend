@@ -1,5 +1,5 @@
 # watch-review-backend
 
-## In this project run 
+## In this project 
 
-### `rake server` to start the server
+### run `rake server` to start the server
